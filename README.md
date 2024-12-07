@@ -1,6 +1,6 @@
 # DMEyF---Experimento-Colab-2024
 
-Ene este Experimento se busca comparar el desempeño del modelo entrenado con Cross Validation contra el mismo modelo entrenado con un Split (Train_Validation), tomando el202406, como mes de validación. 
+Ene este Experimento se busca comparar el desempeño del modelo entrenado con Cross Validation contra el mismo modelo entrenado con un Split (Train_Validation), tomando el mes 202406 como validación. 
 Luego se compara las métricas: Recall, Precision y F1, para ver cual daba mejor al predecir un mes Test: 202407.
 
 
