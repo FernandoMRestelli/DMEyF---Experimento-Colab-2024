@@ -1,0 +1,6 @@
+La notebook es la misma usada para la competencia 03, llamada en este caso: z601_gbt_Experimento%20Colaborativo.ipynb
+
+La parte del experimento se realiza luego de la definición de la optimización de hiperparámetros realizada con Optuna. 
+Esa sección en particular se llama: 'Se define la función de Optuna para Optimizar los hiperparámetros'. 
+Luego de esa sección, viene la llamada EXPERIMENTO COLABORATIVO, donde en el mismo código se ve el paso a paso de la ejecución del modelo bajo los 2 diferentes métodos. 
+Luego vienen la subsección de la comparación del método CV y el Split, utilizando el mes de test (202407).
